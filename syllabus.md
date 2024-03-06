@@ -9,21 +9,15 @@
 
 ## Week 2: Algorithmic Strategies 5.03.2024 Tuesday 15:30-17:30
 **Topics Covered:**
+
 - Brute force methods: concept, applications, and limitations.
 - Introduction to recursion: principles, recursion vs. iteration, examples.
-- Searching and sorting algorithms: linear search, binary search, bubble sort, merge sort, quicksort.
-- Problem-solving session focusing on the application of these algorithms.
+- Searching and sorting algorithms: STL library's basic sorting algortihm.
+- Greedy algorithms: Introduction, contrast with DP, and suitable problem types.
 
 ## Week 3: Advanced Techniques 12.03.2024 Tuesday 15:30-17:30
 **Topics Covered:**
 - Dynamic Programming (DP): Introduction, concept of overlapping subproblems and memoization.
-- Greedy algorithms: Introduction, contrast with DP, and suitable problem types.
+- Depth-First Search (DFS) and Breadth-First Search (BFS): principles, applications, and differences.
 - Solving problems using both DP and greedy approaches for comparative learning.
 - Problem set covering common DP and greedy problems.
-
-## Week 4: Data Structures and Graph Algorithms 19.03.2024 Tuesday 15:30-17:30
-**Topics Covered:**
-- Depth-First Search (DFS) and Breadth-First Search (BFS): principles, applications, and differences.
-- Graph theory basics: terminology, representation, and traversal.
-- Tree data structures: binary trees, binary search trees, AVL trees, and their operations.
-- If time permits, introduction to mathematical concepts in algorithms.
